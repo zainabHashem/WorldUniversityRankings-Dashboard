@@ -1,11 +1,7 @@
-Here’s a sample README for your Power BI project based on the provided details and dataset source:
-World University Rankings Power BI Dashboard
-Project Overview
-
 This Power BI dashboard visualizes world university rankings data, offering insights into university performance across different regions, countries, and league classifications. It provides a user-friendly interface with interactive filters and a variety of visual representations for exploring the data.
 Data Source
 
-The data used for this dashboard was sourced from the Round University Ranking (RUR). RUR provides an in-depth analysis of university rankings globally, measuring institutions based on several performance indicators such as teaching, research, international diversity, and financial sustainability.
+The data used for this dashboard was sourced from [the Round University Ranking (RUR)](https://roundranking.com/ranking/world-university-rankings.html#world-2024). RUR provides an in-depth analysis of university rankings globally, measuring institutions based on several performance indicators such as teaching, research, international diversity, and financial sustainability.
 Features
 
 The dashboard includes the following key visualizations and elements:
